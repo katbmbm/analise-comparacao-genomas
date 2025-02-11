@@ -25,3 +25,8 @@ A seguir está um _pipeline_ computacional usado para realizar a análise e a co
 
 ## Observações:
 - Também seria possível usar o NCBI _Accession Number_ (coluna: RefSeq) no antiSMASH  para realizar o download do genoma direto do NCBI, porém nós não conseguimos fazer isso funcionar para nós.
+
+## Contato:
+katherine.b@aluno.ifsp.edu.br
+
+luiza.souza@aluno.ifsp.edu.br
