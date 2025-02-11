@@ -11,7 +11,7 @@ A seguir está um _pipeline_ computacional usado para realizar a análise e a co
 - Em seguida, pesquise pela espécie que você quer analisar.
 - Escolha a primeira linhagem desejada e realize o download do seu arquivo FASTA (_Genome sequences_) apertando nos três pontos.
 - Com o download feito, extrai o seu arquivo FASTA abrindo a pasta da seguinte maneira:
-“Nome da pasta”.zip **>** ncbi_dataset **>** data **>** “1° pasta” **>** “número da linhagem”.FASTA
+``` “Nome da pasta”.zip **>** ncbi_dataset **>** data **>** “1° pasta” **>** “número da linhagem”.FASTA ```
 - Crie uma pasta em um local acessível, e copie este arquivo FASTA para sua pasta.
 - Repita esses passos até obter a quantidade de linhagens desejadas na sua pasta.
 - Com isso feito, abre o antiSMASH: https://antismash.secondarymetabolites.org/#!/start
