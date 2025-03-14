@@ -18,7 +18,7 @@ A seguir está um _pipeline_ computacional usado para realizar a análise e a co
 - Crie uma pasta em um local acessível, e copie este arquivo FASTA para sua pasta.
 - Repita esses passos até obter a quantidade de linhagens desejadas na sua pasta.
 ### Rodando os Genomas pelo antiSMASH:
-- Com isso feito, abre o antiSMASH: https://antismash.secondarymetabolites.org/#!/start
+- Com os genomas instalados no seu computador, abre o antiSMASH: https://antismash.secondarymetabolites.org/#!/start
 - No campo ```Data input```, aperte em ```Upload file``` e selecione o primeiro arquivo .FASTA na pasta que você criou.
 - Opcionalmente entra o seu email, deixe os outros campos nas configurações default e aperta em ```Submit``` para iniciar a análise.
 - Repita isso com todos os outros arquivos .FASTA\
