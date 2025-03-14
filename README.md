@@ -21,7 +21,7 @@ A seguir está um _pipeline_ computacional usado para realizar a análise e a co
 - Com isso feito, abre o antiSMASH: https://antismash.secondarymetabolites.org/#!/start
 - No campo ```Data input```, aperte em ```Upload file``` e selecione o primeiro arquivo .FASTA na pasta que você criou.
 - Opcionalmente entra o seu email, deixe os outros campos nas configurações default e aperta em ```Submit``` para iniciar a análise.
-- Repita isso com todos os outros arquivos .FASTA
+- Repita isso com todos os outros arquivos .FASTA\
 ***Dica: É possível iniciar várias análises simultaneamente em diferentes abas do seu navegador.**
 
 
